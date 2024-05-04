@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 -->
 
 I'm Oluwadara Adedeji, you can call me Dara. I am a machine learning researcher and budding data science and machine learning professional. Welcome to my page!
@@ -22,6 +21,9 @@ I'm Oluwadara Adedeji, you can call me Dara. I am a machine learning researcher 
 - 🌱 I have experience in data science, machine learning, deep learning, reinforcement learning, robotics amongst others as seen from projects in my Github. I am currently learning [data engineering](https://github.com/peter716/data_engineering_credit_fraud_project) and MLOPs. 
 - 👯 My goal is to see data science and machine learning models transcend Jupyter notebooks, to actual deployment to solve real life problems. I’m very willing to collaborate on this.
 - ⚡ Personal life: When I am not researching or writing code, I relax by surfing the net, listening to music and seeing adventure/thriller series and documentaries, as well as sports(soccer and athletics). My personal goal is to be happy, whatever life throws at me, and to spread happiness as well.
+
+### GitHub Stats
+![YourName's github stats](https://github-readme-stats.vercel.app/api?username=peter716&show_icons=true&theme=radical)
 
 
 
