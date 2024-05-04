@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ![YourName's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 -->
 
-### Hi there 👋
-
 I'm Oluwadara Adedeji, a machine learning researcher and budding data science and machine learning professional. Welcome to my page!
 
 - 🔭 My research is on assessing mental health based on financial behaviour via statistical and machine learning methods. I am interested in AI applications.
