@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![YourName's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 -->
 
 ### Hi there 👋
@@ -24,6 +25,5 @@ I'm Oluwadara Adedeji, a machine learning researcher and budding data science an
 - 👯 My goal is to see data science and machine learning models transcend Jupyter notebooks, to actual deployment to solve real problems. I’m looking to collaborate on this.
 - ⚡ Personal life: I relax by surfing the net, listening to music and seeing adventure/thriller series and documentaries, as well as sports(soccer and athletics). My personal goal is to be happy, whatever life throws at me, and to spread happiness as well.
 
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
