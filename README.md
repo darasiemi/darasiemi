@@ -22,7 +22,7 @@ I'm Oluwadara Adedeji, you can call me Dara. I am a machine learning researcher 
 - 🔭 My PhD. research is on assessing mental health based on financial behaviour via statistical and machine learning methods. I am interested in AI applications and my engineering background has influenced this interest.
 - 🌱 I have experience in data science, machine learning, deep learning, reinforcement learning, robotics amongst others as seen from projects in my Github. I am also currently learning data engineering and MLOPs. 
 - 👯 My ultimate goal is to see data science and machine learning models transcend Jupyter notebooks, to actual deployment to solve real life problems. I am model agnostic; I use whatever model gets the work done.
-- ⚡ Personal life: When I am not researching or writing code, I relax by surfing the net, listening to music and seeing adventure/thriller series and documentaries, as well as sports(soccer and athletics). My personal goal is to be happy, whatever life throws at me, and to spread happiness as well.
+- ⚡ Personal life: When I am not researching or writing code, I relax by surfing the net, listening to music and seeing adventure/thriller series and documentaries, as well as sports(football and athletics). My personal goal is to be happy, whatever life throws at me, and to spread happiness as well.
 - 💬 Life Mantra: Do crazy things, get crazy results. 
 
 ### GitHub Stats
